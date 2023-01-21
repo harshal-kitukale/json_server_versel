@@ -5,7 +5,6 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" },
   "data" : [
     {
         "image": "https://assetscdn1.paytm.com/images/catalog/view_item/710342/1620736738312.jpg?imwidth=940&impolicy=hq",
