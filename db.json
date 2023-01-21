@@ -1,84 +1,9 @@
 {
- "dataarray1" : [
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/710342/1620736738312.jpg?imwidth=940&impolicy=hq",
-        "text": "Central"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/498074/1613028372599.jpg?imwidth=940&impolicy=hq",
-        "text": "Pantaloons"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/498091/1620736830834.png?imwidth=940&impolicy=hq",
-        "text": "U.S.Polo Assn."
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994845/1643780245028.png?imwidth=940&impolicy=hq",
-        "text": "Brand Factory"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/498086/1610536486321.jpg?imwidth=940&impolicy=hq",
-        "text": "Levi's"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/498239/1620736478260.jpg?imwidth=940&impolicy=hq",
-        "text": "ONLY"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/498254/1610536539307.jpg?imwidth=940&impolicy=hq",
-        "text": "UCB"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/498081/1583915454539.jpg?imwidth=940&impolicy=hq",
-        "text": "BIBA"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994846/1643780303875.jpg?imwidth=940&impolicy=hq",
-        "text": "Bewakoof.com"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/498075/1593586492547.jpg?imwidth=940&impolicy=hq",
-        "text": "Myntra"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994132/1643692700179.png?imwidth=940&impolicy=hq",
-        "text": "V-Mart"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994133/1643692702063.jpg?imwidth=940&impolicy=hq",
-        "text": "Westside"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994135/1643692758763.jpg?imwidth=940&impolicy=hq",
-        "text": "Jack n Jones"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994137/1643692795789.jpg?imwidth=940&impolicy=hq",
-        "text": "fabindia"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994138/1643692870440.jpg?imwidth=940&impolicy=hq",
-        "text": "Allen solly"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994847/1643780584196.png?imwidth=940&impolicy=hq",
-        "text": "fbb"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994140/1643692915157.jpg?imwidth=940&impolicy=hq",
-        "text": "Indian Terrain"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994848/1643780625232.png?imwidth=940&impolicy=hq",
-        "text": "Reliance Trends"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994852/1643780584093.jpg?imwidth=940&impolicy=hq",
-        "text": "Jockey"
-    },
-    {
-        "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994849/1643780709215.jpg?imwidth=940&impolicy=hq",
-        "text": "Decathlon"
-    },
-]
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
