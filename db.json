@@ -102,6 +102,7 @@
       "text": "Decathlon"
     }
   ],
+     //*******************************//
     
   "data_array1": [
     {
@@ -218,6 +219,106 @@
       "id": 23,
       "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994288/1643713188868.jpg?imwidth=940&impolicy=hq",
       "text": "Zivame"
+    }
+  ],
+    
+    //*******************************//
+    
+    "data_array3": [
+    {
+      "id": 1,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994298/1643713113821.jpg?imwidth=940&impolicy=hq",
+      "text": "Tailorman"
+    },
+    {
+      "id": 2,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994348/1643715968772.jpg?imwidth=940&impolicy=hq",
+      "text": "Disrupt"
+    },
+    {
+      "id": 3,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/994350/1643716033149.jpg?imwidth=940&impolicy=hq",
+      "text": "Simon Carter"
+    },
+    {
+      "id": 4,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995524/1643867277967.jpg?imwidth=940&impolicy=hq",
+      "text": "Bata"
+    },
+    {
+      "id": 5,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995525/1643867496758.jpg?imwidth=940&impolicy=hq",
+      "text": "Nike"
+    },
+    {
+      "id": 6,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995526/1643867362885.png?imwidth=940&impolicy=hq",
+      "text": "Puma"
+    },
+    {
+      "id": 7,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995527/1643867532232.jpg?imwidth=940&impolicy=hq",
+      "text": "Khadim's"
+    },
+    {
+      "id": 8,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995528/1643867625370.jpg?imwidth=940&impolicy=hq",
+      "text": "Red Chief"
+    },
+    {
+      "id": 9,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/710655/1643866806024.jpg?imwidth=940&impolicy=hq",
+      "text": "Speedo"
+    },
+    {
+      "id": 10,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995529/1643867506442.jpg?imwidth=940&impolicy=hq",
+      "text": "Sports Station"
+    },
+    {
+      "id": 11,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995530/1643867664954.jpg?imwidth=940&impolicy=hq",
+      "text": "Woodland"
+    },
+    {
+      "id": 12,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/710654/1643866837835.jpg?imwidth=940&impolicy=hq",
+      "text": "Metro Shoes"
+    },
+    {
+      "id": 13,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/710657/1613028563419.jpg?imwidth=940&impolicy=hq",
+      "text": "Mochi"
+    },
+    {
+      "id": 14,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995531/1643867698366.jpg?imwidth=940&impolicy=hq",
+      "text": "Lotto"
+    },
+    {
+      "id": 15,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995533/1643867991105.jpg?imwidth=940&impolicy=hq",
+      "text": "Reliance Footwear"
+    },
+    {
+      "id": 16,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995534/1643868084258.jpg?imwidth=940&impolicy=hq",
+      "text": "Steve Madden"
+    },
+    {
+      "id": 17,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/995532/1643867743019.jpg?imwidth=940&impolicy=hq",
+      "text": "Regal"
+    },
+    {
+      "id": 18,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/710661/1613028718597.jpg?imwidth=940&impolicy=hq",
+      "text": "Call it Spring"
+    },
+    {
+      "id": 19,
+      "image": "https://assetscdn1.paytm.com/images/catalog/view_item/710662/1613028739303.jpg?imwidth=940&impolicy=hq",
+      "text": "C & K"
     }
   ]
 }
