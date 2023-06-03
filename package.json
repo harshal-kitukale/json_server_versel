@@ -1,12 +1,34 @@
 {
-  "name": "json-server-vercel",
-  "version": "1.0.0",
-  "description": "Deploy JSON Server to Vercel",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
+  "users":[],
+  "forum":[],
+  "question": {
+    "userAvatar": "user_avatar.png",
+    "username": "JohnDoe123",
+    "questionTitle": "How to sort an array in JavaScript?",
+    "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+    "language": "JavaScript",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
   },
-  "dependencies": {
-    "json-server": "^0.17.0"
-  }
+  "answers": [
+    {
+      "userAvatar": "user_avatar2.png",
+      "username": "JaneSmith456",
+      "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+      "postedDate": "2023-05-31"
+    },
+    {
+      "userAvatar": "user_avatar3.png",
+      "username": "SamJohnson789",
+      "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+      "postedDate": "2023-06-01"
+    },
+    {
+      "userAvatar": "user_avatar4.png",
+      "username": "EmilyBrownXYZ",
+      "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+      "postedDate": "2023-06-01"
+    }
+  ]
 }
