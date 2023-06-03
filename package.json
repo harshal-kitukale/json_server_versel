@@ -1,5 +1,13 @@
 {
-  "users":[],
+  "users":[
+  {
+    "id": 1,
+    "name": "Naresh Kumar H",
+    "email": "nareshkumarh@live.com",
+    "password": "pass123",
+    "role": "USER"
+  }
+  ],
   "forum":[],
   "question": {
     "userAvatar": "user_avatar.png",
