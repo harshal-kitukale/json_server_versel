@@ -1,13 +1,5 @@
 {
   "users": [
-      { "id": 1, "name":"Naresh Kumar H", "email":"nareshkumarh@live.com", 
-      "password":"pass123", "role": "USER"
-      },
-      { "id": 2, "name":"Tushant", "email":"tushant@gmail.com", 
-          "password":"pass123", "role": "ADMIN"
-      }
-  ],
-  "appointments":[
 
   ]
 }
